@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mafarasya
+- 👋 Hi, I’m Mahatmaditya Favian Rachman Syarief
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning Front End Web
 - 💞️ I’m looking to collaborate on ...
