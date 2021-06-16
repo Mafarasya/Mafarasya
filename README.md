@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahatmaditya Favian Rachman Syarief
-- My NIM 2440103546
+- My NIM 2440103546 (Bina Nusantara University)
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning Front End Web
 - 💞️ I’m looking to collaborate on ...
