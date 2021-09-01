@@ -1,11 +1,7 @@
 - 👋 Hi, I’m Mahatmaditya Favian Rachman Syarief
-- My NIM 2440103546 (Bina Nusantara University)
+- I'm student at Bina Nusantara Universit
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning Front-end Web Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me, just contact me at LinkedIn (https://www.linkedin.com/in/mahatmadityafrs/)
 
-<!---
-Mafarasya/Mafarasya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
