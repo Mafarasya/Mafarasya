@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **iOS Development**
 
-- 💬 Ask me about **Swift, SQL**
+- 💬 Ask me about **Swift, SQL Query**
 
 - 📫 How to reach me **mahatmadityafrs88@gmail.com**
 
