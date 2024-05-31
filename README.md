@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning UIKit, MVVM, RxSwift<br><br>💬 Ask me about Swift, SQL Query<br><br>📫 How to reach me mahatmadityafrs88@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/16vt7DlI0LaUgLDqMzu7XKRAN3_Vqi0_4/view?usp=sharing<br><br>
+🌱 I’m currently learning UIKit, MVVM, RxSwift<br><br>💬 Ask me about Swift, SQL Query<br><br>📄 Know about my experiences https://drive.google.com/file/d/16vt7DlI0LaUgLDqMzu7XKRAN3_Vqi0_4/view?usp=sharing<br><br>
 
 
 ## 🌐 Socials:
