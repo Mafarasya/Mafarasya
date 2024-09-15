@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahatmaditya Favian Rachman Syarief</h1>
-<h3 align="center">As a recent graduate from BINUS University with a degree in Computer Science and the Apple Developer Academy @BINUS, I am transitioning my career focus from iOS development to the data domain. With a solid foundation in iOS development, where I honed my skills in teamwork, communication, and problem-solving, I am now deeply engaged in exploring data engineering, data analysis, and database administration.</h3>
+<h3 align="center">Data engineering enthusiast transitioning from iOS development. Passionate about building efficient data pipelines, working with big data, and mastering ETL processes. Always learning and sharing insights from my journey at the Apple Developer Academy @BINUS.</h3>
 
 - 🌱 I’m currently learning **Data Engineering**
 
